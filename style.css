@@ -3,10 +3,24 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
-h1 {
+h1,h2 {
     text-align: center;
 }
 
+h1 {
+    background-color: orangered;
+}
+
 h2 {
-    font-weight: bold;
+    background-color: orange;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+li {
+    background-color: orange;
+    font-size: 20px;
 }
