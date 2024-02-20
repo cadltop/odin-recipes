@@ -27,12 +27,15 @@ img {
 
 li {
     background-color: rgb(216, 176, 44);
-    font-size: 20px;
     margin: 8px 40px;
     padding: 4px;
     width: fit-content;
 }
 
 p {
-    padding: 50px;
+    padding: 0px 50px;
+}
+
+li,p {
+    font-size: 20px;
 }
